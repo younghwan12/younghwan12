@@ -47,7 +47,7 @@
     <a href="https://vueclass8.web.app/">뷰 사이트1 (https://vueclass8.web.app/)</a><br>   
     <br>
     <a href="https://reactapihwan.netlify.app/">리액트 API (https://reactapihwan.netlify.app/)</a><br>   
-    <a href="https://https://vueapi8.web.app/">뷰 API (https://https://vueapi8.web.app/)</a><br>  
+    <a href="https://vueapi8.web.app/">뷰 API (https://https://vueapi8.web.app/)</a><br>  
 </div>
 
 
