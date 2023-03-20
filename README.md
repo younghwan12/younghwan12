@@ -14,9 +14,6 @@
 
 <br>
 
-<a href="https://github.com/younghwan12/github-readme-activity-graph">
-<img src="https://activity-graph.herokuapp.com/graph?username=younghwan12&theme=react-dark&bg_color=20232a&hide_border=true&line=8A87D0&color=918FE0" width=98%/>
-</a>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyounghwan12&count_bg=%23918FE0&title_bg=%23545454&icon=github.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false)](https://hits.seeyoufarm.com)</div>
 
